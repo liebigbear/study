@@ -1,0 +1,13 @@
+INSERT INTO article(title, content) VALUES('가가가', '111');
+INSERT INTO article(title, content) VALUES('나나나', '222');
+INSERT INTO article(title, content) VALUES('다다다', '333');
+INSERT INTO member(email, password) VALUES('fff@123', '123');
+INSERT INTO coffee(name, price) VALUES('아메리카노', '4500');
+INSERT INTO coffee(name, price) VALUES('카메모카', '6000');
+INSERT INTO coffee(name, price) VALUES('카푸치노', '7000');
+INSERT INTO article(title, content) VALUES('댓댓', '444');
+INSERT INTO article(title, content) VALUES('댓댓댓', '555');
+INSERT INTO comment(article_id, nickname, body) VALUES(4, 'nnnnnnnnnn', 'yyyyyyyy');
+INSERT INTO comment(article_id, nickname, body) VALUES(4, 'kkkkkkkk', 'yyyyyyyy');
+INSERT INTO comment(article_id, nickname, body) VALUES(5, 'nnnnnnnnnn', 'yyyyyyyy');
+INSERT INTO comment(article_id, nickname, body) VALUES(5, 'kkkkkkkkkk', 'yyyyyyyy');
